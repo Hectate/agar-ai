@@ -1,3 +1,5 @@
+Original notes are below. The bot as run was ``viz.js`` for the compo.
+
 == AI competition bot ==
 
 For a competition where a series of bots will connect over websockets to a server. While connected, the server will send packets containing information about the game, which takes place on a grid. Food, and other bots, will be located (randomly?) throughout the grid. Bots will reply with a movement in any cardinal direction, or stay still. If movement takes them over a point on the grid that contains food, they will accrue a point and the food will be removed. If two players collide (at the end of a turn) they will both be destroyed and be unable to continue collecting food.
