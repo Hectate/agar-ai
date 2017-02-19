@@ -1,0 +1,1 @@
+ffmpeg -framerate 24 -i agar%04d.png output.gif

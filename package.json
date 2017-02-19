@@ -1,0 +1,11 @@
+{
+  "name": "agar-ai",
+  "version": "1.0.0",
+  "description": "Crappy AI for an Agar-like programming compo",
+  "main": "viz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathaniel \"Hectate\" Mitchell",
+  "license": "MIT"
+}

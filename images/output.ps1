@@ -1,0 +1,1 @@
+ffmpeg -framerate 24 -i agar%04d.png -vf scale=iw*2:ih*2 output.gif
